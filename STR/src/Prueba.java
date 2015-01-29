@@ -12,8 +12,13 @@ public class Prueba {
    //Se agrega comentacio 
    //comentario agregado por dario despues que funciono todo ok, de lujo!!!!!!!!!!
    
-   System.out.println("Primera linea agregada : usuario: gabriel: 10-10-14");
+   
    //prueba fer...
    //prueba dario...
    //otra prueba fer!
+   
+   public static void main(String []args){
+       System.out.println("hola");
+       System.out.println("Primera linea agregada : usuario: gabriel: 10-10-14");
+   }
 }
