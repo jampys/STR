@@ -37,7 +37,7 @@ public class Ventana extends javax.swing.JFrame {
                 */
                 
                 //OPCION 1
-                System.out.println(arduino.printMessage()); //imprime el mensaje recibido completo y en una sola linea, interpretandolo
+                System.out.println(arduino.printMessage()); //imprime el mensaje recibido completo y en una sola linea, como un String
                                
                 try {
                     //OPCION 2. imprime el mensaje recibido completo, de a una linea, pero en formato ascii
