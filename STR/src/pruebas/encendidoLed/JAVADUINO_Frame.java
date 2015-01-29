@@ -8,14 +8,14 @@ import java.util.Enumeration;
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author mario
+
+/*
+ * @author dario
+ * Basado en: http://geekytheory.com/tutorial-java-arduino-javaduino/
+ * 
+ * Usa solo la libreria RXTX
+ * En esta simple prueba SOLO se envian datos desde Java a Arduino
  */
 public class JAVADUINO_Frame extends javax.swing.JFrame {
 
