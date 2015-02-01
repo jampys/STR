@@ -1,6 +1,2 @@
 #ignora el directorio build
 STR/build/
-#ignora el directorio nbproject
-STR/nbproject/
-STR/build.xml
-STR/manifest.mf
